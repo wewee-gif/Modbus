@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "converter.h": "c",
+        "cstdint": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
